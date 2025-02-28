@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    flex-wrap: wrap;
+    width: 20em;
+}
+
+#sq4 {
+    order:5;
+}
+
+#sq5 {
+    order: 4;
+}
+
+#sq6 {  
+    order: 3;
+}
+
+#sq7, #sq8, #sq9{
+    order: 5;
+}
